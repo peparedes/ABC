@@ -1,3 +1,11 @@
 1) SL lights
+	- mbed optimization (c++)
+	- kalman filter (python)
 2) DeStress
+	- Install & run
+	- Modify Queries (scala)
+	- crawler (python)
 3) Kinoma
+	- cath up with javier & lizzie
+4) Personal Website
+	- port it to a nicer system
